@@ -1,0 +1,24 @@
+{
+  "name": "replaceall-shim",
+  "version": "1.0.1",
+  "description": "This will add the replaceAll method to the string prototype so you can use it exactly as you would with ECMA-262 and all need to be done after support was added to your env is to remove the require at the top!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mim-Armand/replaceAll-Shim.git"
+  },
+  "keywords": [
+    "ecma-262",
+    "replaceAll",
+    "shim"
+  ],
+  "author": "mim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mim-Armand/replaceAll-Shim/issues"
+  },
+  "homepage": "https://github.com/mim-Armand/replaceAll-Shim#readme"
+}
